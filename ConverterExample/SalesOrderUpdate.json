@@ -1,0 +1,42 @@
+﻿{
+  "project": {
+    "value": 0
+  },
+  "printNoteOnInternalDocuments": {
+    "value": true
+  },
+  "printDescriptionOnInvoice": {
+    "value": true
+  },
+  "printNoteOnExternalDocuments": {
+    "value": true
+  },
+  "soBillingContact": {
+    "value": {
+      "overrideContact": {
+        "value": true
+      },
+      "name": {
+        "value": "string"
+      },
+      "attention": {
+        "value": "string"
+      },
+      "email": {
+        "value": "string"
+      },
+      "web": {
+        "value": "string"
+      },
+      "phone1": {
+        "value": "string"
+      },
+      "phone2": {
+        "value": "string"
+      },
+      "fax": {
+        "value": "string"
+      }
+    }
+  }
+}
